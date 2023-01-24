@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mclinton-dot-tech/static/css/main.ba17183d.css",
+    "main.js": "/mclinton-dot-tech/static/js/main.4c9a30a1.js",
+    "static/js/27.e343088c.chunk.js": "/mclinton-dot-tech/static/js/27.e343088c.chunk.js",
+    "static/media/bojo.jpg": "/mclinton-dot-tech/static/media/bojo.90dd5320063b0ba8e306.jpg",
+    "index.html": "/mclinton-dot-tech/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba17183d.css",
+    "static/js/main.4c9a30a1.js"
+  ]
+}
